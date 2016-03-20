@@ -1,5 +1,5 @@
 jQuery(document).ready(function($) {
- 
+ CHANGING STUFFF
  	var AppView = Backbone.View.extend({
       // el - stands for element. Every view has a element associate in with HTML
       //      content will be rendered.
